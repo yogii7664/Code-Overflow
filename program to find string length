@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+string a;
+cin>>a;
+int l;//variable to store length
+for(int i=0;i!='\0';i++)
+{
+l++;
+}
+cout<<l<<endl;
+}
