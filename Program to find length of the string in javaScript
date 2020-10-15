@@ -1,0 +1,5 @@
+// Length of the string
+
+var text = 'Some text';
+
+console.log(text.length);
