@@ -6,3 +6,8 @@ flag=1;
 for i in range(1,ex+1):
     flag=flag*p;
 print("The value of",p,"with power of",ex,"is =",flag);
+
+#secound approach
+num=int(input("Enter number: "))
+exp=int(input("Enter exponantial"))
+print("result: ",num**exp)
