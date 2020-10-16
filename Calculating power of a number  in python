@@ -1,0 +1,3 @@
+number=input("Enter the number: ")
+power=input("Enter the power: ")
+print(f"{number} raised to the power {power} is {number**power}")
